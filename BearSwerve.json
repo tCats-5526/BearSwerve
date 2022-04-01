@@ -1,17 +1,17 @@
 {
     "fileName": "BearSwerve.json",
     "name": "bearswerve",
-    "version": "2022.0.10",
-    "uuid": "e00fa50a-6b3e-11ec-90d6-0242ac120003",
+    "version": "2022.0.11",
+    "uuid": "e00fa50a-6b3e-11ec-90d6-0242ac120004",
     "mavenUrls": [
       "https://jitpack.io"
     ],
-    "jsonUrl": "https://raw.githubusercontent.com/6391-Ursuline-Bearbotics/BearSwerve/master/BearSwerve.json",
+    "jsonUrl": "https://raw.githubusercontent.com//tCats-5526/BearSwerve/master/BearSwerve.json",
     "javaDependencies": [
       {
-        "groupId": "com.github.6391-Ursuline-Bearbotics",
+        "groupId": "com.github./tCats-5526",
         "artifactId": "BearSwerve",
-        "version": "2022.0.10"
+        "version": "2022.0.11"
       }
     ],
     "jniDependencies": [],
