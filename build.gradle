@@ -4,7 +4,7 @@ plugins {
     id "edu.wpi.first.GradleRIO" version "2022.3.1"
 }
 
-group = 'com.github.6391-ursuline-bearbotics'
+group = 'com.github.tCats-5526'
 
 sourceCompatibility = JavaVersion.VERSION_11
 targetCompatibility = JavaVersion.VERSION_11

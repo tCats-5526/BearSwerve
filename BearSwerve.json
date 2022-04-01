@@ -1,7 +1,6 @@
 {
     "fileName": "BearSwerve.json",
     "name": "bearswerve",
-    "version": "2022.0.11",
     "uuid": "e00fa50a-6b3e-11ec-90d6-0242ac120004",
     "mavenUrls": [
       "https://jitpack.io"
@@ -10,8 +9,7 @@
     "javaDependencies": [
       {
         "groupId": "com.github./tCats-5526",
-        "artifactId": "BearSwerve",
-        "version": "2022.0.11"
+        "artifactId": "BearSwerve"
       }
     ],
     "jniDependencies": [],
