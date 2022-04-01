@@ -6,7 +6,7 @@
     "mavenUrls": [
       "https://jitpack.io"
     ],
-    "jsonUrl": "https://raw.githubusercontent.com//tCats-5526/BearSwerve/master/BearSwerve.json",
+    "jsonUrl": "https://raw.githubusercontent.com/tCats-5526/BearSwerve/master/BearSwerve.json",
     "javaDependencies": [
       {
         "groupId": "com.github./tCats-5526",
